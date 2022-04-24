@@ -7,7 +7,7 @@
 
 - 💬 If you need help with **Lua and Hammer Editor(Source Engine), ask me :)**
 
-- 📫 You can Reach me on Discord: **DerMetelGamerYT#0001**
+- 📫 You can Reach me on Discord: **DerMetelGamerYT#8018**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
