@@ -9,12 +9,12 @@
 
 - 🤝 I’m looking for help with [Developement on MetelGaming](https://metelgaming.de)
 
-- 📫 How to reach me **Discord: DerMetelGamer#0001**
+- 📫 How to reach me **Discord: DerMetelGamerYT#7084**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/dermetelgameryt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dermetelgameryt" height="30" width="40" /></a>
-<a href="https://discord.gg/metelgaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="metelgaming" height="30" width="40" /></a>
+<a href="https://discord.gg/5sNbsQAYC8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="metelgaming" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
