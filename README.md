@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=metelgameryt&label=Profile%20views&color=0e75b6&style=flat" alt="metelgameryt" /> </p>
 
-- 🔭 I’m currently working on [MetelGaming](https://metelgaming.de)
+- 🔭 I’m currently working on N/A
 
-- 🌱 I’m currently learning **Javascript and Elixir**
-
-- 🤝 I’m looking for help with [Developement on MetelGaming](https://metelgaming.de)
+- 🌱 I’m currently learning **Javascript, next.js and Golang**
 
 - 📫 How to reach me **Discord: DerMetelGamerYT#7084**
 
