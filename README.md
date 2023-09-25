@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=metelgameryt&label=Profile%20views&color=0e75b6&style=flat" alt="metelgameryt" /> </p>
 
-- 🔭 I’m currently working on N/A
+- 🔭 I’m currently working on my own Online Shop System via. PhP <a href="https://github.com/MetelGamerYT/MShop-Online-Shop">Click me</a>
 
 - 🌱 I’m currently learning **Javascript, next.js and Golang**
 
