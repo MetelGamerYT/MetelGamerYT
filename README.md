@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=metelgameryt&label=Profile%20views&color=0e75b6&style=flat" alt="metelgameryt" /> </p>
 
-- 🔭 I’m currently working on my own Online Shop System via. PhP <a href="https://github.com/MetelGamerYT/MShop-Online-Shop">Click me</a>
+- 🔭 I’m currently working on /
 
-- 🌱 I’m currently learning **Javascript, next.js and Golang**
+- 🌱 I’m currently learning **Golang**
 
-- 📫 How to reach me **Discord: DerMetelGamerYT#7084**
+- 📫 How to reach me **Discord: DerMetelGamerYT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
