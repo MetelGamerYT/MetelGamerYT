@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DerMetelGamer | Simon</h1>
 <h3 align="center">A German Hobby Developer</h3>
 
-<p align="left"> <img src="https://imgur.com/a/FhQWcQj" alt="metelgameryt" /> </p>
+<p align="left"> <img src="https://metelgames.com/publicshit/renter.jpg" alt="metelgameryt" /> </p>
 
 - 🔭 I’m currently working on Akira - Dashboard: Manage Gmod and Minecraft Server
 
