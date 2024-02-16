@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm DerMetelGamer</h1>
+<h1 align="center">Hi 👋, I'm DerMetelGamer | Simon</h1>
 <h3 align="center">A German Hobby Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=metelgameryt&label=Profile%20views&color=0e75b6&style=flat" alt="metelgameryt" /> </p>
+<p align="left"> <img src="https://imgur.com/a/FhQWcQj" alt="metelgameryt" /> </p>
 
 - 🔭 I’m currently working on Akira - Dashboard: Manage Gmod and Minecraft Server
 
@@ -10,7 +10,7 @@
 - 📫 How to reach me **Discord: DerMetelGamerYT**
 
 ## GitHub Stats
-<a href="https://phill030.de">
+<div>
   <p align="center">
     <img 
       height="170em"
@@ -21,7 +21,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetelGamerYT&langs_count=8&theme=synthwave&layout=compact"
     />
   </p>
-</a>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
