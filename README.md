@@ -11,7 +11,7 @@
 
 ## GitHub Stats
 <p align="center">
-  <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=metelgameryt&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="DerMetelGamerYT Top Languages" />
+  <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=metelgameryt&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="DerMetelGamerYT Top Languages" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
