@@ -10,18 +10,9 @@
 - 📫 How to reach me **Discord: DerMetelGamerYT**
 
 ## GitHub Stats
-<div>
-  <p align="center">
-    <img 
-      height="170em"
-      src="https://github-readme-stats.vercel.app/api?username=MetelGamerYT&count_private=true&show_icons=true&theme=synthwave"
-    />
-    <img 
-      height="170em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetelGamerYT&langs_count=8&theme=synthwave&layout=compact"
-    />
-  </p>
-</div>
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metelgameryt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
